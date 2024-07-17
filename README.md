@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Edducational Assistant powered by Large Language Models (LLM) and RAG model. It allows users to generate summary and quizes related to pdf that user been uploaded. The chatbot utilizes a RAG (Retrieval-Augmented Generation) model to enhance its performance.
+This project is a Educational Assistant powered by Large Language Models (LLM) and RAG model. It allows users to generate summary and quizes related to pdf that user been uploaded. The chatbot utilizes a RAG (Retrieval-Augmented Generation) model to enhance its performance.
 
 ![](assets/Demo1.png)
 ![](assets/Demo2.png)
