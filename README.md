@@ -18,7 +18,8 @@ This project is a Educational Assistant powered by Large Language Models (LLM) a
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies specified in the `requirements.txt` file.
-3. Run the app script to start the chatbot.
+3. Run the app script to start the Assistant.
+4. Upload your pdf document and select the option that you want.
 
 ## Technologies Used
 
