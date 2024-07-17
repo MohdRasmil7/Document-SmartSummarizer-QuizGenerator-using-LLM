@@ -1,4 +1,4 @@
-# Legal Chatbot LLM
+# Unleash Your Knowledge Wizard: Summaries and Quizzes Made Easy! 📚✨
 
 ## Overview
 
