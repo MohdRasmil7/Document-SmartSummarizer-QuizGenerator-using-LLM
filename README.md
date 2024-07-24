@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an Educational Assistant powered by Large Language Models (LLM). It allows users to generate summaries and quizzes related to PDFs that users have uploaded. The chatbot leverages the LLM model to enhance its performance. 🤖📝
+This project is an Educational Assistant powered by Large Language Models (LLM). It enables users to generate summaries and quizzes from uploaded PDFs, leveraging the advanced capabilities of the LLM model to deliver enhanced performance. 🤖📝
 
 ![](assets/Demo1.png) ![](assets/Demo2.png)
 
